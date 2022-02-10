@@ -1,6 +1,6 @@
 module.exports = {
   title: "weto-publication",
-  description: 'A simple and beautiful vuepress blog theme .',
+  description: 'clean&fast',
   dest: 'public',
   head: [
     ['link', { rel: 'icon', href: '/favicon.ico' }],
