@@ -14,13 +14,14 @@ module.exports = {
       { text: '文章', 
         icon: 'reco-message',
         items: [
-          { text: '消息', link: '/docs/message/' }
+          { text: '消息', link: '/docs/theme-reco/' }
         ]
       },
       { text: '其他网站', 
         icon: 'reco-message',
         items: [
-          { text: 'GitHub', link: 'https://github.com/recoluan', icon: 'reco-github' }
+          { text: 'GitHub', link: 'https://github.com/wyc35', icon: 'reco-github' }
+          { text: 'GitHub', link: 'https://space.bilibili.com/1156725998?spm_id_from=333.1007.0.0', icon: 'reco-github' }
         ]
       }
     ],
