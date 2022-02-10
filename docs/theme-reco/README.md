@@ -1,6 +1,6 @@
 ---
-title: theme-reco
-date: 2020-05-29
+title: 网站的支持
+date: 2022-02-10
 ---
 
-This is theme-reco.
+网站支持：theme-reco
