@@ -1,7 +1,7 @@
 ---
 home: true
-heroText: vuepress-theme-reco
-tagline: A simple and beautiful vuepress blog theme.
+heroText: Message-publishing
+tagline: weto及oakumstudio的最新动态与博客首选发布地点.
 # heroImage: /hero.png
 # heroImageStyle: {
 #   maxWidth: '600px',
