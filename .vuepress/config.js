@@ -10,14 +10,14 @@ module.exports = {
   themeConfig: {
     nav: [
       { text: '主页', link: '/', icon: 'reco-home' },
-      { text: 'TimeLine', link: '/timeline/', icon: 'reco-date' },
-      { text: 'Docs', 
+      { text: '时间线', link: '/timeline/', icon: 'reco-date' },
+      { text: '文章', 
         icon: 'reco-message',
         items: [
-          { text: 'vuepress-reco', link: '/docs/theme-reco/' }
+          { text: '消息', link: '/docs/message/' }
         ]
       },
-      { text: 'Contact', 
+      { text: '其他网站', 
         icon: 'reco-message',
         items: [
           { text: 'GitHub', link: 'https://github.com/recoluan', icon: 'reco-github' }
